@@ -1,0 +1,186 @@
+body{
+    background-image: url(../img/fondo\ 2.jpg);
+    background-size: cover;
+    display: grid;
+    place-items: center; 
+    margin: 0; 
+}
+.principal{
+    text-align: center;
+    background-color: white;
+    color: black;
+    display: inline-block;
+    border: 9px solid rgb(142, 228, 243);
+    margin: 300px;
+    font-size: 20px;
+    display: grid;
+    place-items: center;
+    line-height: 3px; /* Ajustar el ancho de las lineas */
+    width: 700px;  /* Ajustar el ancho del cuadro*/
+    height: 50px; /* Ajustar la altura del cuadro*/
+    margin-top: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+    margin-bottom: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+}
+.principal1{
+    text-align: center;
+    background-color: white;
+    color: black;
+    display: inline-block;
+    border: 9px solid rgb(142, 228, 243);
+    margin: 300px;
+    font-size: 20px;
+    display: grid;
+    place-items: center;
+    line-height: 3px; /* Ajustar el ancho de las lineas */
+    width: 900px;  /* Ajustar el ancho del cuadro*/
+    height: 50px; /* Ajustar la altura del cuadro*/
+    margin-top: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+    margin-bottom: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+}
+.principal2{
+    text-align: center;
+    background-color: white;
+    color: black;
+    display: inline-block;
+    border: 9px solid rgb(142, 228, 243);
+    margin: 300px;
+    font-size: 20px;
+    display: grid;
+    place-items: center;
+    line-height: 3px; /* Ajustar el ancho de las lineas */
+    width: 1300px;  /* Ajustar el ancho del cuadro*/
+    height: 50px; /* Ajustar la altura del cuadro*/
+    margin-top: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+    margin-bottom: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+}
+.principal3{
+    text-align: center;
+    background-color: white;
+    color: black;
+    display: inline-block;
+    border: 9px solid rgb(142, 228, 243);
+    margin: 300px;
+    font-size: 15px;
+    display: grid;
+    place-items: center;
+    line-height: 3px; /* Ajustar el ancho de las lineas */
+    width: 1300px;  /* Ajustar el ancho del cuadro*/
+    height: 50px; /* Ajustar la altura del cuadro*/
+    margin-top: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+    margin-bottom: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+}
+.titulo1{
+    color: blue;
+    text-align: center;
+    background-color: white;
+    display: inline-block;
+    border: 9px solid rgb(142, 228, 243);
+    margin: 300px;
+    font-size: 40px;
+    display: grid;
+    place-items: center;
+    line-height: 3px; /* Ajustar el ancho de las lineas */
+    width: 600px;  /* Ajustar el ancho del cuadro*/
+    height: 400px; /* Ajustar la altura del cuadro*/
+    margin-top: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+    margin-bottom: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+}
+.titulo2{
+    color: blue;
+    text-align: center;
+    background-color: white;
+    display: inline-block;
+    border: 9px solid rgb(142, 228, 243);
+    margin: 300px;
+    font-size: 40px;
+    display: grid;
+    place-items: center;
+    line-height: 3px; /* Ajustar el ancho de las lineas */
+    width: 900px;  /* Ajustar el ancho del cuadro*/
+    height: 300px; /* Ajustar la altura del cuadro*/
+    margin-top: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+    margin-bottom: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+}
+.titulo3{
+    color: blue;
+    text-align: center;
+    background-color: white;
+    display: inline-block;
+    border: 9px solid rgb(142, 228, 243);
+    margin: 300px;
+    font-size: 40px;
+    display: grid;
+    place-items: center;
+    line-height: 3px; /* Ajustar el ancho de las lineas */
+    width: 800px;  /* Ajustar el ancho del cuadro*/
+    height: 400px; /* Ajustar la altura del cuadro*/
+    margin-top: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+    margin-bottom: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+}
+
+.botones{
+    color: black;
+    text-align: center;
+}
+.respuesta{
+    align-items: center;
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    border: 9px solid rgb(142, 228, 243);
+    margin: 300px;
+    font-size: 20px;
+    display: grid;
+    width: 600px;  /* Ajustar el ancho del cuadro*/
+    height: 200px; /* Ajustar la altura del cuadro*/
+    margin-top: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+    margin-bottom: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+}
+.respuesta1{
+    align-items: center;
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    border: 9px solid rgb(142, 228, 243);
+    margin: 300px;
+    font-size: 20px;
+    display: grid;
+    width: 900px;  /* Ajustar el ancho del cuadro*/
+    height: 200px; /* Ajustar la altura del cuadro*/
+    margin-top: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+    margin-bottom: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+}
+.fin{
+    font-size: 20px;
+}
+.button-container {
+    text-align: center;
+}
+
+.button-container button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.5s ease, transform 0.5s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.button-container button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+.button-container button a {
+    text-decoration: none;
+    color: white;
+}
+
+.button-container button:active {
+    background-color: #003f7f;
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}

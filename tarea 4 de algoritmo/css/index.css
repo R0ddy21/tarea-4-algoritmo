@@ -1,0 +1,33 @@
+body{
+    background-image: url(/img/fondo\ 1.jpg);
+    background-size: cover;
+    display: grid;
+    place-items: center; 
+    margin: 0; 
+}
+.titulo{
+    color: rgb(26, 253, 253);
+    font-size: 40px;
+    margin-top: 20px;
+    font-family: 'American Typewriter', 'Courier New', Courier, serif;
+    
+    
+}
+.opciones{
+    background-color: rgb(240, 247, 247);
+    color: black;
+    margin-top: 2000px;
+    font-family: Georgia, serif;
+    font-style: italic;
+    display: inline-block;
+    border: 9px solid rgb(142, 228, 243);
+    margin: 300px;
+    font-size: 40px;
+    display: grid;
+    place-items: center;
+    line-height: 3px; /* Ajustar el ancho de las lineas */
+    width: 400px;  /* Ajustar el ancho del cuadro*/
+    height: 300px; /* Ajustar la altura del cuadro*/
+    margin-top: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+    margin-bottom: 50px; /* Ajusta este valor para mover el cuadro más arriba o más abajo */
+}

@@ -1,0 +1,63 @@
+body {
+    background-image: url(/img/fondo\ 2.jpg);
+    background-size: cover;
+    font-family: Arial, sans-serif
+}
+.horizontal {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.parrafo {
+    border: 1px solid #e0e0e0;
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+}
+.parrafo {
+    font-size: 14px;
+    color: #555;
+}
+.parrafo img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.parrafo h4 {
+    margin: 10px 0 5px 0;
+}
+.parrafo span {
+    color: #888;
+    font-size: 12px;
+}
+.button-container {
+    text-align: center;
+}
+
+.button-container button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.5s ease, transform 0.5s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.button-container button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+.button-container button a {
+    text-decoration: none;
+    color: white;
+}
+
+.button-container button:active {
+    background-color: #003f7f;
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
